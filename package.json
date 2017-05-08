@@ -7,6 +7,10 @@
     "name": "Jason Willimas",
     "email": "jwill9999@icloud.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwill9999/React_Redux_AuthGuard.git"
+  },
   "keywords": [
     "react",
     "redux",
