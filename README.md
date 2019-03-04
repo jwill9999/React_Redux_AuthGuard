@@ -1,6 +1,8 @@
 # React Redux AuthGuard Example using Higher Order Functions
 
-
+<div align="center">
+<img src="./public/images/authguard.png" />
+</div>
 
 ### Getting Started
 
